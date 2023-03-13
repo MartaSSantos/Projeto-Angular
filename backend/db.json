@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que esta qui",
+      "autoria": "Marta",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Eu vou vencer",
+      "autoria": "Dev da Cap",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "Vou conquistar ",
+      "autoria": "vencedora",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "Vou conseguir porque não vou desistir!!",
+      "autoria": "Marta Santos",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "Vou conseguir porque não vou desistir!",
+      "autoria": "m",
+      "modelo": "modelo2",
+      "id": 6
+    }
+  ]
+}
